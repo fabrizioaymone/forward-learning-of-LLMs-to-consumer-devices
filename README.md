@@ -42,7 +42,7 @@ python results.py
 ```
 
 ## Citation
-If you find "Forward Learning of Large Language Models by Consumer Devices" helpful for your research, please consider citing the paper.
+If you find <em><strong>Forward Learning of Large Language Models by Consumer Devices</strong></em> helpful for your research, please consider citing the paper.
 
 ```
 @Article{electronics13020402,
@@ -58,7 +58,7 @@ ISSN = {2079-9292},
 DOI = {10.3390/electronics13020402}}
 ```
 
-A more thorough mathematical description of the computational complexity metrics attributed to each operation involved in the Transformer training is provided in "Mathematical Formulation of Learning and Its Computational Complexity for Transformers’ Layers".
+A more thorough mathematical description of the computational complexity metrics attributed to each operation involved in the Transformer training is provided in <em><strong>Mathematical Formulation of Learning and Its Computational Complexity for Transformers’ Layers</strong></em>.
 
 ```
 @Article{eng5010003,
