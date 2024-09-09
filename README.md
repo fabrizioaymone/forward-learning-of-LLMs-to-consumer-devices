@@ -39,7 +39,7 @@ To analyze the results from the models, use the following command:
 
 ```bash
 python results.py
-
+```
 
 ## Citation
 If you find "Forward Learning of Large Language Models by Consumer Devices" helpful for your research, please consider citing the paper.
