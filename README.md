@@ -44,7 +44,6 @@ python results.py
 If you find "Forward Learning of Large Language Models by Consumer Devices" helpful for your research, please consider citing the paper.
 
 ```
-
 @Article{electronics13020402,
 AUTHOR = {Pau, Danilo Pietro and Aymone, Fabrizio Maria},
 TITLE = {Forward Learning of Large Language Models by Consumer Devices},
@@ -57,11 +56,11 @@ URL = {https://www.mdpi.com/2079-9292/13/2/402},
 ISSN = {2079-9292},
 DOI = {10.3390/electronics13020402}
 }
+```
 
 A more thorough mathematical description of the computational complexity metrics attributed to each operation involved in the Transformer training is provided in "Mathematical Formulation of Learning and Its Computational Complexity for Transformers’ Layers".
 
 ```
-
 @Article{eng5010003,
 AUTHOR = {Pau, Danilo Pietro and Aymone, Fabrizio Maria},
 TITLE = {Mathematical Formulation of Learning and Its Computational Complexity for Transformers’ Layers},
@@ -75,6 +74,6 @@ ISSN = {2673-4117},
 ABSTRACT = {Transformers are the cornerstone of natural language processing and other much more complicated sequential modelling tasks. The training of these models, however, requires an enormous number of computations, with substantial economic and environmental impacts. An accurate estimation of the computational complexity of training would allow us to be aware in advance about the associated latency and energy consumption. Furthermore, with the advent of forward learning workloads, an estimation of the computational complexity of such neural network topologies is required in order to reliably compare backpropagation with these advanced learning procedures. This work describes a mathematical approach, independent from the deployment on a specific target, for estimating the complexity of training a transformer model. Hence, the equations used during backpropagation and forward learning algorithms are derived for each layer and their complexity is expressed in the form of MACCs and FLOPs. By adding all of these together accordingly to their embodiment into a complete topology and the learning rule taken into account, the total complexity of the desired transformer workload can be estimated.},
 DOI = {10.3390/eng5010003}
 }
-
+```
 
 
